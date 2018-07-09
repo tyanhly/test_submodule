@@ -1,0 +1,7 @@
+[submodule "social-ex"]
+	path = social-ex
+	url = git@github.com:tyanhly/social-ex.git
+[submodule "ee"]
+	path = ee
+	url = git@github.com:tyanhly/social-ex.git
+	branch = master
